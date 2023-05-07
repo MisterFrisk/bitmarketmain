@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: gold;
+    margin: 0;
+}
+
+header {
+    justify-content: space-between;
+    padding:0.5% ;
+    margin-bottom: 20px;
+    display: flex;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+article {
+    background-color: white;
+    padding: 3%;
+    width: 30%;
+    margin:5% 1% 5% 5%;
+}
+
+    
+    
+    
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+
+
+
+
+
